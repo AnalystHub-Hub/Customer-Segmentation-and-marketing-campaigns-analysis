@@ -10,7 +10,7 @@
 
 ### Project Overview 🕮
 
-What motivated me to do carryout an analysis on marketing campaigns is that they are an essential component of how businesses promote their interests. It is therefore critical for companies to measure customer engagement with marketing campaigns, evaluate the effectiveness of previous efforts, and suggest data-driven strategies to boost engagement with upcoming campaigns. The data used in the project is taken from kaggle. I could not find a private company data, open for scraping and usage. Hence, my choice.
+What motivated me to carryout an analysis on marketing campaigns and customer segmentation is that they are an essential component of how businesses promote their interests. It is therefore critical for companies to measure customer engagement with marketing campaigns, evaluate the effectiveness of previous efforts, and suggest data-driven strategies to boost engagement with upcoming campaigns. The data used in the project is taken from kaggle. I could not find a private company data, open for scraping and usage. Hence, my choice.
 📰🗞️
 ### Libraries 🐱‍💻
 
