@@ -20,6 +20,13 @@ What motivated me to carryout an analysis on marketing campaigns and customer se
 - `seaborn` for data visualization and exploratory data analysis.
 - `plotly` to create beautiful interactive web-based visualizations.
 - `plotly express` easy-to-use, high-level interface to Plotly.
+
+
+
+### Dataset Clustering and Segmentation
+
+https://raw.githubusercontent.com/njimonda/Customer-Segmentation-and-marketing-campaigns-analysis/main/cluster.jpg
+
 ### Languages and Tools 👨‍💻
 
 ```http
