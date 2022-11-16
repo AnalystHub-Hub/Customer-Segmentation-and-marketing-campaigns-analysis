@@ -25,7 +25,7 @@ What motivated me to carryout an analysis on marketing campaigns and customer se
 
 ### Dataset Clustering and Segmentation
 
-https://raw.githubusercontent.com/njimonda/Customer-Segmentation-and-marketing-campaigns-analysis/main/cluster.jpg
+![Logo](https://raw.githubusercontent.com/njimonda/Customer-Segmentation-and-marketing-campaigns-analysis/main/cluster.jpg)
 
 ### Languages and Tools 👨‍💻
 
